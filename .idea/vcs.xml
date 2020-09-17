@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopath/src/github.com/cpuguy83/go-md2man" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopath/src/github.com/micro/cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopath/src/github.com/micro/go-micro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopath/src/github.com/samlina/microshop" vcs="Git" />
+  </component>
+</project>
